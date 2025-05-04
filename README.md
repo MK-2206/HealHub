@@ -1,10 +1,13 @@
 <!-- PROJECT LOGO -->
+<br />
 <div align="center">
-  <a href="https://healhub.vercel.app">
-    <img src="your_logo_or_icon_link_here" alt="Logo" width="80" height="80">
+  <a href="https://med-pal.vercel.app">
+    <img src="https://ik.imagekit.io/spursy/MedPal/apple-touch-icon.png?updatedAt=1681674938894" alt="Logo" width="80" height="80">
   </a>
-  <h1 align="center">HealHub</h1>
+  <h1 align="center">HealHub</h3>
 </div>
+
+
 
 HealHub is a personal medical tracker that lets users manage their well-being online by recording and monitoring health data. It empowers users with full control over their medical information.
 
