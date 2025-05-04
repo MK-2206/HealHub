@@ -31,13 +31,17 @@ HealHub is a personal medical tracker that lets users manage their well-being on
 ## 🖼️ Screenshots
 
 > _Replace these links with your own screenshots later:_
-
-- **Dashboard**  
-  ![](your_screenshot_links/Dashboard.png)
-- **Vitals Chart**  
-  ![](your_screenshot_links/Charts.png)
-- **Doctor Search**  
-  ![](your_screenshot_links/DoctorSearch.png)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/dc6c7966-ad3f-409f-b2de-e17b1450b8e9" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c2386db0-eea5-4b45-8863-623074a6d015" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/26288997-3c3f-4a61-ae69-123e5df82d62" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/90e6c9c2-85db-4741-882a-dae8e0f98ef9" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/9b250ac4-d9b6-44ba-af96-b674717ef3fd" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/870a94c1-2de9-4a80-a887-ef75f477c663" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/3fec31d8-9848-4754-916c-c1ddb24a1463" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/ce6080b7-c125-4b51-bb30-21c793f967ea" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/652d09ce-7b4f-4d50-9943-c78c8f96eee7" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/bb8cd882-a88f-42af-979c-9b5b3de1be10" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/a558a365-2838-4749-8238-42d35877ed69" />
 
 ---
 
