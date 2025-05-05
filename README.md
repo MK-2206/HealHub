@@ -27,7 +27,6 @@ HealHub is a personal medical tracker that lets users manage their well-being on
 
 ## 🖼️ Screenshots
 
-> _Replace these links with your own screenshots later:_
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/dc6c7966-ad3f-409f-b2de-e17b1450b8e9" />
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c2386db0-eea5-4b45-8863-623074a6d015" />
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/26288997-3c3f-4a61-ae69-123e5df82d62" />
