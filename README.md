@@ -11,10 +11,7 @@
 
 HealHub is a personal medical tracker that lets users manage their well-being online by recording and monitoring health data. It empowers users with full control over their medical information.
 
-> 🚀 Live site: [https://healhub.vercel.app](https://healhub.vercel.app)  
-> 🛠️ Backend API: [https://healhub-backend.onrender.com/api](https://healhub-backend.onrender.com/api)
-
----
+--
 
 ## 📌 Features
 
